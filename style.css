@@ -2,6 +2,10 @@ header {
   background-color: lavender;
 }
 
+h1 {
+  text-align: center;
+}
+
 a {
   color: black;
   font-size: 25px;
